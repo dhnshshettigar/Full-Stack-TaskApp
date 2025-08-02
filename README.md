@@ -118,9 +118,6 @@ The frontend will run on [http://localhost:5173](http://localhost:5173)
 - [x] Task editing
 - [x] Task deletion
 - [x] JWT-based protected routes
-- [x] UI/UX improvements
-- [x] Search/filter tasks
-- [x] Deployment (Vercel + Render/Heroku)
 
 ---
 
