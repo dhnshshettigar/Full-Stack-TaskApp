@@ -40,7 +40,6 @@ Full-Stack-TaskApp/
 ├── server/                 # Express backend
 │   ├── models/             # Mongoose schemas
 │   ├── routes/             # API routes (auth, tasks)
-│   ├── controllers/        # Route logic
 │   ├── middleware/         # JWT auth, error handling
 │   └── server.js
 ```
